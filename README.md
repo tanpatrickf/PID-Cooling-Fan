@@ -3,8 +3,8 @@
 
 ## OBJECTIVES
 
-- To apply all concepts learned from the Feedback and Control System laboratory course
-- To build the application temperature controlled cooling fan for processors
+- To apply all concepts learned from feedback and control systems
+- To build the application for temperature controlled cooling fan for processors
 
 
 ## MATERIALS
