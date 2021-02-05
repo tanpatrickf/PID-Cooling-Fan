@@ -25,9 +25,12 @@ This device monitors the current operating temperature of the processor using LM
 ![alt text][Block Diagram]
 
 
-## PICTURE OF PROTOTYPE
+## APPLICATION
 
 ![alt text][GUI]
+
+
+## PROTOTYPE
 
 
 ![alt text][Prototype]
