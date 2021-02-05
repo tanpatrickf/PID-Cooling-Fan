@@ -8,11 +8,13 @@
 - To build the application temperature controlled cooling fan for processors
 
 
+
 ## MATERIALS
 
 - Arduino Uno
 - LM35
 - Cooling Fan
+
 
 
 ## DESCRIPTION
@@ -21,16 +23,20 @@ Processor in computers tend to heat much when under excessive operations. That i
 This device monitors the current operating temperature of the processor using LM35 to read the temperature as an input. The data will process using a Closed Loop Analog Control system program in Arduino microcontroller. This system determines how strong the actuator, in this case the cooling fan, should operate.
 
 
+
 ## BLOCK DIAGRAM
 
 ![alt text][Block Diagram]
+
 
 
 ## PICTURE OF PROTOTYPE
 
 ![alt text][GUI]
 
+
 ![alt text][Prototype]
+
 
 
 ## INSTRUCTIONS
@@ -38,6 +44,7 @@ This device monitors the current operating temperature of the processor using LM
 1. Upload the PIDFAN.ino sketch file to the microcontroller.
 2. Run the ControlsGUI.m in Matlab.
 3. In the new window named ControlsGUI, enter the desired temperature and click "Apply Temperature" button.
+
 
 
 ## NOTES
